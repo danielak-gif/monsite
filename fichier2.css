@@ -1,0 +1,19 @@
+.word{
+    text-align:center;color:rebeccapurple;background-color:wheat; width: 250px;
+}
+body{background-color:beige; }
+h3,h2{text-align:center; background-color:bisque;font-size:xx-large;color:chocolate;}
+span{ position:relative; left:400px;}
+.diplome{position:relative;width: 120px;left:700px;; color:darkmagenta;  }
+li{text-align:center;font-size:x-large;}
+.redimensionner{color:midnightblue;
+width:700px;height:auto;font-size:x-large;position:relative; left:460px;background-color:antiquewhite;
+}
+table{
+   
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    display: flex;
+}

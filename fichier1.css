@@ -1,0 +1,57 @@
+.divglobal{
+    background-color:coral;}
+#special{text-align:center; border-style:dashed; background-color:burlywood;
+   color:;
+    }
+.bordure{
+    width:50em;
+}
+h1,h2,h3
+{   margin-left:0;text-align:center;color :brown;
+}    
+p
+{  font-weight:bold;
+    margin-top:0;
+    margin-bottom:0;
+    text-transform:capitalize;
+    letter-spacing:0.2em;
+    line-height:2em;
+    width:350px;
+    max-
+    padding:12px;
+    margin:auto;
+    border: 1px solid black;
+    margin-bottom: 20px;
+    background-color:chocolate;
+}
+p:first-line{
+    color:blue;
+}
+a:hover{ text-decoration:underline;color:green
+}
+p{
+ font:italic bold 120%/140% Arial, sans-serif 14px;
+}
+a[class="toto"]{
+    background-color:hotpink;
+}
+body{
+    font-family: 'Trebuchet MS',times,verdana;background-attachement:fixed;
+}
+h1{
+    font-size:xx-large;text-decoration:blink;
+}
+div{
+position:relative;
+width: 900px;
+height: 1000px; ;
+}
+.annonce{position:relative;
+    right:218px;
+
+}
+.poesie{position:absolute;
+right:20px ; color:darkblue;}
+.image_style{position:absolute;
+left:900px; height: 900px;
+width:450px;}

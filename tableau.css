@@ -1,0 +1,15 @@
+.soulign{text-decoration:underline}
+td{ text-align: center;
+    border:3px solid black;color:darkslategray;
+}
+table{border-collapse: collapse; height:300px; width: 400px;}
+.vertical{
+writing-mode:vertical-rl;transform:rotate(180deg); background-color: green;color:red;
+}
+.diagonal_text{transform:rotate(-45deg);transform-origin:center;position:absolute;top:5cqh;left:50%; transform:translate(-50%,-50%) rotate(-45deg);white-space:nowrap; }
+.space{height: 100px;width:100px; position:relative;}
+.horizontal{background-color: gray; color: green;}
+.border_a{border:0px;}
+body{background-color:blanchedalmond;}
+h2{color:red;text-decoration:underline;}
+.cel{background-color:coral;}
