@@ -3,7 +3,6 @@
 Bienvenue  !  
 
 👉 [Accéder à l'accueil](accueil.html)  
-
 👉 [Accéder à la page 1](page1.html)  
 👉 [Accéder à la page 2](page2.html)  
 👉 [Accéder à la page 3](page3.html)  
