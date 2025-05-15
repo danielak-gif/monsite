@@ -1,6 +1,6 @@
 # monsite
 
-Bienvenue !  
+Bienvenue  !  
 
 👉 [Accéder à l'accueil](accueil.html)  
 
