@@ -1,13 +1,15 @@
 # monsite
 
-SOMMAIRE(Mes pages)  <br/>
-<a href="acceuil.html">accueil.html</a></br>
-<a href="page1.html" >page1.html</a></br>
-<a href="page2.html">page2.html </a></br>
-<a href="acceuil.html">page3.html </a></br>
-<a href="page4.html">page4.html</a></br>
-<a href="Tableau.html">Tableau.html</a></br>
-<a href="Formule1.html">Formule1.html</a></br>
-<a href="Formule2.html">Formule2.html</a></br>
-<a href="cv.html">cv.html</a></br>
-<a href ="apropos.html">apropos.htm</a></br>
+Bienvenue !  
+
+👉 [Accéder à l'accueil](acceuil.html)
+👉 [Accéder à la page 1](page1.html)  
+👉 [Accéder à la page 2](page2.html)  
+👉 [Accéder à la page 3](page3.html)  
+👉 [Accéder à la page 4](page4.html)  
+👉 [Accéder à la page des tableaux](Tableau.html)  
+👉 [Accéder à la page Formule1](Formule1.html)  
+👉 [Accéder à la page Formule2](Formule2.html)  
+👉 [Accéder à la page cv](cv.html)  
+👉 [Accéder à la page apropos](apropos.html)  
+
