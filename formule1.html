@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XMLTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+<head><title>Ma </title>          
+      <meta http-equiv="Content-Type"content="text/html; charset=UTF-8"/>
+<link rel=stylesheet type="text/css"     href="fichier4.css" media="all"/>
+</head>
+ <body>
+    <h2>ma sixième page</h2>
+
+<form action="traitement.php" method="post">
+    <fieldset>
+        <legend>État Civil</legend>
+        <label for="matricule">Matricule :</label>
+        <input type="text" id="matricule" name="matricule"><br><br>
+
+        <label for="prenom">Prénom :</label>
+        <input type="text" id="prenom" name="prenom"><br><br>
+
+        <label for="date_naissance">Date de naissance :</label>
+        <input type="date" id="date_naissance" name="date_naissance"><br><br>
+
+        <label for="nom">Nom :</label>
+        <input type="text" id="nom" name="nom"><br><br>
+
+        <label for="sexe">Sexe :</label>
+        <select id="sexe" name="sexe">
+            <option value="masculin">Masculin</option>
+            <option value="feminin">Féminin</option>
+        </select><br><br>
+
+        <label for="age">Âge :</label>
+        <input type="number" id="age" name="age"><br><br>
+    </fieldset>
+
+    <fieldset>
+        <legend>Mes Diplômes</legend>
+        <input type="checkbox" id="cep" name="diplome" value="CEP">
+        <label for="cep">CEP</label><br>
+
+        <input type="checkbox" id="bepc" name="diplome" value="BEPC">
+        <label for="bepc">BEPC</label><br>
+
+        <input type="checkbox" id="bac" name="diplome" value="BAC">
+        <label for="bac">BAC</label><br>
+    </fieldset>
+
+    <fieldset>
+        <legend>Expertise</legend>
+        <input type="radio" id="expert_it" name="expertise" value="IT">
+        <label for="expert_it">Expert IT</label><br>
+
+        <input type="radio" id="expert_bavardage" name="expertise" value="Bavardage">
+        <label for="expert_bavardage">Expert Bavardage</label><br>
+    </fieldset>
+
+    <fieldset>
+        <legend>Les Boutons</legend>
+        <button type="submit">Envoyer</button>
+        <button type="reset">Effacer</button>
+        <button type="button">Quitter</button>
+    </fieldset>
+</form>
+</body>
+</html>
